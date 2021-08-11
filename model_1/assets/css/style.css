@@ -1,0 +1,285 @@
+/* blocks stylization */
+
+.block_1 {
+    width: 122px;
+    height: 108px;
+}
+
+.block_2 {
+    width: 279px;
+    height: 108px;
+    background-color: #777777;
+
+}
+
+.block_3 {
+    width: 513px;
+    height: 108px;
+    background-color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 10px;
+    font-weight: 400;
+    color:#ffffff;
+    text-align: right;
+    box-sizing: border-box;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.block_4 {
+    width: 184px;
+    height: 335px;
+    background-color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding-bottom: 5px;
+    text-align: left;
+}
+
+.block_5 {
+    width: 757px;
+    height: 210px;
+    background-color: #dcdcdc;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 700;
+    color: #777777;
+    font-weight: 400;
+    box-sizing: border-box;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+.block_6 {
+    width: 757px;
+    height: 325px;
+}
+
+.block_7 {
+    width: 184px;
+    height: 134px;
+}
+
+.block_8 {
+    width: 355px;
+    height: 200px;  
+    background-color: #dcdcdc; 
+    color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 10px;
+    font-weight: 400; 
+    box-sizing: border-box;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.block_9 {
+    width: 383px;
+    height: 200px;   
+    background-color: #dcdcdc;
+    color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 10px;
+    font-weight: 400;
+    box-sizing: border-box;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.block_10 {
+    width: 297px;
+    height: 180px; 
+    background-color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #ffffff;
+    box-sizing: border-box;
+    text-align: left;   
+}
+
+.block_11 {
+    width: 297px;
+    height: 180px;    
+    background-color: #777777;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.block_12 {
+    width: 328px;
+    height: 85px;
+    background-color: #777777;
+    
+}
+
+.block_13 {
+    width: 328px;
+    height: 85px;
+}
+
+/* li/ul stylization */
+
+.li_4 {
+    list-style-type: none;
+    color: #ffffff;
+}
+
+.li_5 {
+    line-height: 10px;
+}
+
+.li_11 {
+    color: #ffffff;
+}
+
+.li_10 {
+    list-style-type: none;
+    color: #ffffff;
+}
+
+
+
+/* p stylization */
+
+.p_3 {
+    text-decoration: underline;
+}
+
+/* block 10 stylization */
+
+.block_10 {
+    list-style-position: inside;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+    list-style-type: decimal;
+    
+}
+
+
+/* blocks Location */
+ 
+.block_1 {
+    float: left;
+    margin-top: 15px;
+    margin-left: 475px;
+    margin-bottom: 15px;
+}
+.block_2 {
+    float: left;
+    margin-top: 15px;
+    margin-left: 24px;
+    margin-bottom: 15px;
+}
+.block_3 {
+    float: left;
+    margin-top: 15px;
+    margin-left: 24px;
+    margin-bottom: 15px;
+}
+
+.block_4 {
+    clear: left;
+    float: left;
+    margin-left: 465px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    }
+
+.block_5 {
+    float: left;
+    margin-left: 22px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.block_6 {
+ margin-left: 22px;
+ margin-top: 20px;
+ margin-bottom: 15px;
+}
+
+
+.block_7 {
+    clear: left;
+    float: left;
+    margin-left: 465px;
+    margin-top: 86px;
+    margin-bottom: 15px;
+}
+.block_8 {
+    float: left;
+    margin-left: 22px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.block_9 {
+    float: left;
+    margin-left: 22px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.block_10 {
+    clear: left;
+    float: left;
+    margin-left: 465px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.block_11 {
+    float: left;
+    margin-left: 22px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.block_12 {
+    float: left;
+    margin-top: 40px;
+    margin-left: 22px;
+    margin-bottom: 10px;
+}
+
+.block_13 {
+    float: left;
+    margin-right: 288px;
+    margin-left: 22px;
+    margin-bottom: 20px;
+}
+
+
+
+/* header, main, footer */
+
+.header {
+    padding: 10px;
+}
+
+.main {
+    padding: 10px;
+}
+
+.footer {
+    padding: 10px;
+
+}
